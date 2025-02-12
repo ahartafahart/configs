@@ -1,1 +1,2 @@
- configs for firmware "padavan" �            
+
+ � configs for firmware "padavan" � � �            
